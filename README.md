@@ -6,10 +6,9 @@ Perform an analysis that will examine influenza trends and provide insights to p
 - Influenza Deaths by geography, time, age, and gender, CDC.
 - Population data by geography, 2009 - 2017, US Census Bureau.
 ## Description of folders
-•	01 Project management: Project Brief
-•	02 Data: original Data; Prepared Data. 
-•	04 Analysis: Report; Test files; Visualization (NOTE: The folder has been excluded)
-•	05 Send to client: Final report in Tableau
+- 01 Project management: Project Brief
+- 02 Data: original Data; Prepared Data.
+- 04 Analysis: Report; Test files;
 ## Visualization
 Visualizations were created in Tableau. The link to the storyboard can be found here: [Medical staff Planning Visuals](https://public.tableau.com/app/profile/iryna.khylyuk/viz/Map2_16804506120020/Story1).
 
